@@ -265,3 +265,10 @@ body {
   width: 100%;
   display: block;
 }
+
+.x-gradient-font {
+  background: linear-gradient(107.54deg, #0078d4 .39%, #8661c5 51.23%, #ff9349 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
