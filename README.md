@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models</h1>
+  <h1 align="center">[CVPR 2025]AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models</h1>
 <!--   <h2 align="center">ICML 2024</h2> -->
   
 
@@ -34,6 +34,7 @@ The DressingNet integrates these features for virtual dressing using a <b>Dressi
 Moreover, <b>Garment-Enhanced Texture Learning (GTL)</b> strategy further enhances details. 
 
 ## 🎨 Updates
+  - 🔥 **`2025/02/27`**: Our [**AnyDressing paper**](https://arxiv.org/abs/2412.04146) is accepted by <b>CVPR 2025</b>.
   - **`2024/12/06`**: Our [**AnyDressing paper**](https://arxiv.org/abs/2412.04146) is available.
 
 ## 🌏 Code Release
